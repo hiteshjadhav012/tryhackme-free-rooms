@@ -186,6 +186,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 * [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 * [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+  
+* [TryHackMe | Traffic Analysis Essentials](https://tryhackme.com/room/trafficanalysisessentials?ref=blog.tryhackme.com)
 
 ## Tooling
 
